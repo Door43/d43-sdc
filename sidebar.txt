@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sdc:home|Door43 (sdc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sdc|d43-sdc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sdc/archive/master.zip|d43-sdc.zip]]
+
+**Recent Changes**
+{{changes>ns = sdc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sdc|Ethnologue data]]
+
